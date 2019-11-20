@@ -3,12 +3,16 @@
 
 
 
-演示效果
+测试效果
 -
 
-![image](http://www.apppay.xyz/index/githubimg/pay/mm.jpg)
+![image](http://www.apppay.xyz/index/githubimg/payai/payai.png)
 
 
+<br>
+<br>
+<br>
+<br>
 
 
 说明
