@@ -9,10 +9,13 @@
 测试效果
 -
 
-![image](http://www.apppay.xyz/index/githubimg/payai/payai.png)
+![image](http://www.apppay.xyz/index/githubimg/payai/payai01.png)
 
 
 <br>
+
+![image](http://www.apppay.xyz/index/githubimg/payai/payai02.jpg)
+
 <br>
 <br>
 <br>
