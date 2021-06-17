@@ -9,7 +9,7 @@
 演示截图
 --
 
-![image](http://apppay.xyz.com/index/githubimg/payai/payai01.png)
+![image](https://i.loli.net/2021/06/17/Xmu28DKZUoNGHYg.png)
 <br/>
 <br/>
 <hr/>
